@@ -18,3 +18,13 @@ C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.cspr
 C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.CoreCompileInputs.cache
 C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.exe
 C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.pdb
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\bin\Debug\CadastroDeAluno.exe.config
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\bin\Debug\CadastroDeAluno.exe
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\bin\Debug\CadastroDeAluno.pdb
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.csprojAssemblyReference.cache
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.frmCadastro.resources
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.Properties.Resources.resources
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.GenerateResource.cache
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.exe
+C:\Users\Guilherme Turtera\OneDrive\Área de Trabalho\CursoTDD\Exemplo_AutomatizacaoDeTesteDeInterface\CadastroDeAluno\obj\Debug\CadastroDeAluno.pdb

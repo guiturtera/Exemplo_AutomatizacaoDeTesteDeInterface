@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeAluno", "Cadastro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUI", "TesteUI\TesteUI.csproj", "{1EA2437C-FA64-475D-888C-3A4113D2C42A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnitario", "TesteUnitario\TesteUnitario.csproj", "{783F101B-8723-4C67-9C73-B6DCE772AF7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1EA2437C-FA64-475D-888C-3A4113D2C42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA2437C-FA64-475D-888C-3A4113D2C42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA2437C-FA64-475D-888C-3A4113D2C42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783F101B-8723-4C67-9C73-B6DCE772AF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783F101B-8723-4C67-9C73-B6DCE772AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783F101B-8723-4C67-9C73-B6DCE772AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783F101B-8723-4C67-9C73-B6DCE772AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
